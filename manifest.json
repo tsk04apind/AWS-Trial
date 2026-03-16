@@ -1,0 +1,13 @@
+{
+  "fileLocations": [
+    {
+      "URIs": ["https://nexwork-quick.s3.amazonaws.com/netflix_titles.csv"]
+    }
+  ],
+  "globalUploadSettings": {
+    "format": "CSV",
+    "delimiter": ",",
+    "textqualifier": "\"",
+    "containsHeader": "true"
+  }
+}
